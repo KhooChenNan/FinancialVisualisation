@@ -55,19 +55,19 @@ Step-by-step guide on how to install the project.
 <summary>Dip Finder View</summary>
 <p>A tool designed to pinpoint potential buying opportunities for financial assets based on their current market prices and corresponding moving averages. This feature facilitates informed investment decisions by analyzing whether the current price is significantly below the relevant moving average, identifying potential market dips or undervaluations. Providing a user-friendly interface with visual representations, the "Dip Finder View" empowers users to quickly assess and capitalize on favorable entry points, making it a valuable asset for both novice and experienced investors seeking to optimize their trading strategies.</p>
 </details>
-![AI Rebalancing Bot Demo](gif/dip_finder_view.gif)
+![dip_finder_view](https://github.com/KhooChenNan/FinancialVisualisation/assets/93215251/6a757225-cf24-4272-bf54-353ea0067162)
 
 <details>
 <summary>AI rebalancing bot</summary>
 <p>A hard-coded heuristic agent, this intelligent bot is designed to elevate portfolio management by leveraging advanced algorithms for automatic optimization of holdings. Seamlessly adapting to dynamic market conditions, the AI Rebalancing Bot minimizes manual intervention, ensuring portfolios remain strategically aligned.</p>
 </details>
-![AI Rebalancing Bot Demo](gif/ai_rebalancing_bot.gif)
+![ai_rebalancing_bot](https://github.com/KhooChenNan/FinancialVisualisation/assets/93215251/1c8b293c-06d2-45d6-9da9-faab3777552a)
 
 <details>
 <summary>Portfolio Management System</summary>
 <p>Empowering users with robust portfolio management capabilities, the Portfolio Management System is equipped with a sophisticated algorithmic agent. This intelligent tool goes beyond conventional approaches, utilizing advanced algorithms to automatically optimize portfolio holdings. In the face of dynamic market conditions, the system seamlessly adapts, significantly reducing the need for manual intervention. By strategically aligning portfolios, it provides users with a resilient and responsive approach to navigate the complexities of the financial landscape.</p>
 </details>
-![AI Rebalancing Bot Demo](gif/portfolio_management_system.gif)
+![portfolio_management_system](https://github.com/KhooChenNan/FinancialVisualisation/assets/93215251/47f86661-a636-4e0f-8478-c07924b558d4)
 
 ### Note
 
