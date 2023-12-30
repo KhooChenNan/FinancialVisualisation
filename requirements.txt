@@ -1,0 +1,12 @@
+streamlit
+xlrd
+db-sqlite3
+vega-datasets
+Pillow
+yfinance
+yahoo-finance
+altair
+plotly
+pandas
+numpy
+yahoo_fin
